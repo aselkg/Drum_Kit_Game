@@ -1,2 +1,2 @@
 # Drum_Kit_Game
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Live DEMO](https://aselkg.github.io/Drum_Kit_Game/)
