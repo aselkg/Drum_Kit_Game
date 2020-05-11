@@ -3,4 +3,5 @@
 ## To download this app follow next steps:
 * Clone `git clone https://github.com/aselkg/Drum_Kit_Game.git` 
 * Open HTML file
-* Enjoy your Game
+* Use your keyboard acordingly to make sound
+
